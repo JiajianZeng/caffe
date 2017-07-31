@@ -16,7 +16,7 @@
 *.a
 
 # Compiled protocol buffers
-*.pb.h
+# *.pb.h
 *.pb.cc
 *_pb2.py
 
